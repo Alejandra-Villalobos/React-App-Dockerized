@@ -1,4 +1,6 @@
 Dockerfile
+npm-debug.log
+.git
 .dockerignore
 .gitingore
 
